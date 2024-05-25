@@ -22,18 +22,18 @@ Foram criadas dentro da aplicação diferentes funções, são elas:
 
 Para fazer a assistente começar a funcionar, no *PyCharm*, siga essas etapas:
 
+*ETAPA - 01*
 ```bash
-  *ETAPA - 01*
   SHIFT + F10 ou Run 'main.py';
 ```
 
+*ETAPA - 02*
 ```bash
-  *ETAPA - 02*
   Diga a wake word: "Ok, sexta-feira";
 ```
 
+*ETAPA - 03*
 ```bash
-  *ETAPA - 03*
   Escolha uma das funções que a assistente disponibiliza.
 ```
 
